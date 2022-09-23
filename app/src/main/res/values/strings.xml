@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">practica2Kotlin</string>
+    <string name="btn_Iniciar">Iniciar proceso</string>
+    <string name="et_Nombre">Nombre</string>
+    <string name="et_Apellido">Apellido</string>
+    <string name="btn_Registrar">Registrar usuario</string>
+    <string name="txt_VacioDefault" />
+    <string name="sw_EstadoSoltero">Soltero</string>
+</resources>
